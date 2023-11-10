@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "481997250408",
+    "project_id": "test-d1f34",
+    "storage_bucket": "test-d1f34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481997250408:android:b1d707908fc9af67ac40dd",
+        "android_client_info": {
+          "package_name": "com.example.dynamic_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACBGA8OfhT62xB-l-inHH6uMJsqMDB7O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481997250408:android:41d3b51ec3183bd0ac40dd",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACBGA8OfhT62xB-l-inHH6uMJsqMDB7O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
